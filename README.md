@@ -1,1 +1,1 @@
-# Master_Thesis on Geo Location Estimation
+# Optimizing Content-Based Image Retrieval for Geolocation Estimation
